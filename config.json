@@ -40,7 +40,7 @@
 			"users": [
 				{
 					"name": "Misaka-blog",
-					"uuid": "9e701d9b-17ee-49dc-8bc9-a39a82cd9307",
+					"uuid": "aca4bf6e-b2ac-4164-b278-7302f62ede00",
 					"alterId": 0
 				}
 			],
@@ -62,7 +62,7 @@
 			"users": [
 				{
 					"name": "Misaka-blog",
-					"uuid": "9e701d9b-17ee-49dc-8bc9-a39a82cd9307"
+					"uuid": "aca4bf6e-b2ac-4164-b278-7302f62ede00"
 				}
 			],
 			"transport": {
@@ -83,7 +83,7 @@
 			"users": [
 				{
 					"name": "Misaka-blog",
-					"password": "9e701d9b-17ee-49dc-8bc9-a39a82cd9307"
+					"password": "aca4bf6e-b2ac-4164-b278-7302f62ede00"
 				}
 			],
 			"transport": {
