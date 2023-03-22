@@ -40,7 +40,7 @@
 			"users": [
 				{
 					"name": "Misaka-blog",
-					"uuid": "UUID",
+					"uuid": "9e701d9b-17ee-49dc-8bc9-a39a82cd9307",
 					"alterId": 0
 				}
 			],
@@ -62,7 +62,7 @@
 			"users": [
 				{
 					"name": "Misaka-blog",
-					"uuid": "UUID"
+					"uuid": "9e701d9b-17ee-49dc-8bc9-a39a82cd9307"
 				}
 			],
 			"transport": {
@@ -83,7 +83,7 @@
 			"users": [
 				{
 					"name": "Misaka-blog",
-					"password": "UUID"
+					"password": "9e701d9b-17ee-49dc-8bc9-a39a82cd9307"
 				}
 			],
 			"transport": {
